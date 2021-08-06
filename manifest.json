@@ -1,12 +1,13 @@
 {
    "manifest_version": 2,
    "name": "Read on reMarkable",
-   "version": "1.2.0",   
+   "version": "1.2.0.1",
 
    "description": "Read web articles on your reMarkable with a click.",
 
    "options_ui": {
-      "page": "options.html"
+      "page": "options.html",
+      "open_in_tab": true
    },
 
    "applications": {

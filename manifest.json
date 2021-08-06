@@ -5,8 +5,10 @@
 
    "description": "Read web articles on your reMarkable with a click.",
 
-   "options_page": "options.html",
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjWk+CwR9NsqLrWundKWYKAShdQIWffaUQccaFVMnkwpe3bBNB3+CiquZOxiwJhY7wOljG82s59cAPg/fKpUUXfkaDYNcAOPJ4WjoeIa/mUpRkYAJucE4xRS4GwR6DBreWCo015MxXC34QRQb9lppoWf5uY6wB0AxnFzZWQw4N2xwyg/FTeQ0SGymN5LUpPylYgm+BXFeqLR6bAT/FmoZ9I3TZUsQ8Ieg0BIpqeWIgBiWXU8gETRiWNV+C/UE12OzsTmcwr7uCiN8z3Go4M1Sq+PilYSbr1hlNehYvpgG/p3ZCtHWfId3jzng9aFV3jo4xbyP3WSDxmfL0at/YAY49QIDAQAB",
+   "options_ui": {
+      "page": "options.html"
+   },
 
    "applications": {
       "gecko": {

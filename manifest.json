@@ -11,8 +11,8 @@
 
    "applications": {
       "gecko": {
-      "id": "remarkable@dorsaz.net"
-    }
+         "id": "remarkable@dorsaz.net"
+      }
    },
 
    "icons": {

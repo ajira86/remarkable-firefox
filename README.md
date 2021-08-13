@@ -6,6 +6,14 @@ This is an experimental work but it does the job at this time.
 
 ## How to use
 
+* Get the [latest release](https://github.com/ajira86/remarkable-firefox/releases/download/1.2.0.1/read_on_remarkable-1.2.0.1-fx.xpi)
+* Get [Remarkable one-time code](https://my.remarkable.com/device/connect/remarkable)
+* Enjoy sharing your pages to your device
+
+# Contributing
+
+## Setup from source
+
 * Create a zip of the project content
 * Go to "Manage Your Extensions"
 * Choose "Debug Add-ons" in menu

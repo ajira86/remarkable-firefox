@@ -20,6 +20,14 @@ This is an experimental work but it does the job at this time.
 
 ## TODO
 
-* Fix manifest file warnings
-* Fix unverified addon error on standard installation
-* Publish on mozilla website
+* [ ] Fix manifest file warnings
+* [ ] Publish on mozilla website
+* [ ] Fix plugin dropdown size 
+
+### v1.2.0.1
+
+* [x] Display preferences in a new tab to keep correct presentation
+
+### v1.2.0
+
+* [x] Fix unverified addon error on standard installation

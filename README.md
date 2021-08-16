@@ -31,6 +31,7 @@ This is an experimental work but it does the job at this time.
 * [ ] Fix manifest file warnings
 * [ ] Publish on mozilla website
 * [ ] Fix plugin dropdown size 
+* [ ] Fix printing method for PDF format
 
 ### v1.2.0.1
 
